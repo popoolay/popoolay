@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @popoolay
-- 👀 I’m interested in software ddevelopment
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on softwware projects
+- 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me, prinzyemi2000@gmail.com
 
 <!---
